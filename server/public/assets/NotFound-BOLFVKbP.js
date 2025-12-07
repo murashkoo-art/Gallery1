@@ -1,0 +1,1 @@
+import{_ as o,c as n,a as t,o as r}from"./app-CEv5AtwB.js";const s={};function a(c,e){return r(),n("div",null,[...e[0]||(e[0]=[t("p",null," Раздел не найден ",-1)])])}const _=o(s,[["render",a]]);export{_ as default};
